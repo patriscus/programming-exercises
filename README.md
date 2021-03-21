@@ -1,2 +1,11 @@
-# programming-exercises
-A repository holding some quizzes &amp; exercises I found on the internet
+# Programming Exercises
+
+Solving some exercises I find on the internet.
+
+### Running tests
+
+To run the tests from the command line, run `yarn install`, followed by:
+
+```
+yarn test
+```
